@@ -1,2 +1,2 @@
-# spai
-Kaggle Competition: LLM - Detect AI Generated Text
+# SpAI
+Kaggle Competition: LLM - Detect AI-Generated Text
