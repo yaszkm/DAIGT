@@ -1,2 +1,1 @@
-# DAIGT
-LLM - Detect AI-Generated Text
+# Detect LLM-Generated Text
